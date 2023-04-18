@@ -1,12 +1,12 @@
 package com.epam.jmp.cloud.bank.impl;
 
-import com.epam.jmp.bank.api.Bank;
 import com.epam.jmp.dto.BankCard;
 import com.epam.jmp.dto.BankCardType;
 import com.epam.jmp.dto.CreditBankCard;
 import com.epam.jmp.dto.DebitBankCard;
 import com.epam.jmp.dto.User;
 import com.epam.jmp.dto.UserInfo;
+import com.epam.jmp.bank.api.Bank;
 
 import java.util.HashMap;
 import java.util.Map;
